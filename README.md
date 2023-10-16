@@ -23,3 +23,4 @@ KaseiCoin will be a fungible token that’s ERC-20 compliant. You’ll launch a 
 ![Alt Text](Screenshot18.png)
 ![Alt Text](Screenshot19.png)
 ![Alt Text](Screenshot20.png)
+![Alt Text](Screenshot21.png)
